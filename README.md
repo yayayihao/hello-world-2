@@ -1,2 +1,2 @@
 # hello-world-2
-whatever
+No matter what difficulties I encounter, I will stick to them.
